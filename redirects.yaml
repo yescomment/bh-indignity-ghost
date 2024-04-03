@@ -1,0 +1,3 @@
+301:
+  # substack /p/slug to /slug https://ghost.org/docs/migration/substack/
+  \/p\/(?![0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12})(.*): /$1
